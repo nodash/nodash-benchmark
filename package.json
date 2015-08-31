@@ -1,0 +1,29 @@
+{
+  "name": "nodash-benchmark",
+  "version": "0.1.0",
+  "description": "Benchmark library used by nodash (node specific)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodash/nodash-benchmark.git"
+  },
+  "keywords": [
+    "nodash",
+    "benchmark",
+    "utility"
+  ],
+  "author": "Julian Fleischer <tirednesscankill@warhog.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodash/nodash-benchmark/issues"
+  },
+  "homepage": "https://github.com/nodash/nodash-benchmark",
+  "devDependencies": {
+    "chalk": "^1.1.1",
+    "nodash": "^0.8.2",
+    "sprintf": "^0.1.5"
+  }
+}
